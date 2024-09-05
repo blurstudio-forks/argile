@@ -1,3 +1,5 @@
+Development for this tool has moved to a different repository: https://github.com/blurstudio/blurdeform
+
 # Argile
 
 
